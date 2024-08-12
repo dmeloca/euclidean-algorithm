@@ -32,7 +32,7 @@ def mcd(a: int, b: int) -> list:
 
 
 def main() -> None:
-    print(mcd(687, -234))  ## (a, b) where a is divided by b
+    print(mcd(687, -234))
 
 if __name__ == "__main__": 
     main() 
